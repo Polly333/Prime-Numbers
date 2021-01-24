@@ -1,0 +1,42 @@
+body{
+  background-color: #e8f3f8;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  color: steelblue;
+}
+
+form{
+  margin: 20px auto;
+  width: 320px;
+  color: steelblue;
+}
+
+p {
+  text-align: center;
+  color: steelblue;
+  
+}
+
+input{
+  padding: 10px;
+  font-size: inherit;
+}
+
+
+input[type="text"]{
+  display:block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid steelblue;
+}
+
+button[type="submit"]{
+  height: 45px;
+  width: 344px;
+  border: none;
+  background: steelblue;
+  color: white;
+}
